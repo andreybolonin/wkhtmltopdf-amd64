@@ -1,0 +1,9 @@
+{
+    "name": "pilotftzi/wkhtmltopdf-amd64",
+    "type": "library",
+    "description": "Convert html to pdf using webkit (qtwebkit)",
+    "homepage": "https://code.google.com/p/wkhtmltopdf/",
+    "require": {
+        "php": ">=5.2.3"
+    }
+}
